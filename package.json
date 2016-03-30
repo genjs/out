@@ -1,0 +1,20 @@
+{
+  "name": "genjs-out",
+  "version": "1.0.0",
+  "description": "GenJS Out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genjs/out.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genjs/out/issues"
+  },
+  "homepage": "https://github.com/genjs/out#readme"
+}
